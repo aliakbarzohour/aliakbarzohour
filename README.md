@@ -5,7 +5,9 @@
 <p align="center"><samp><strong>Programming Language</strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Javasciprt-black?style=for-the-badge&logo=javascript" alt="Javasciprt" />
-  <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-Vuejs-darkgreen?style=for-the-badge&logo=vue.js" alt="Vuejs" />
+  <img src="https://img.shields.io/badge/-Reactjs-darkblue?style=for-the-badge&logo=react" alt="Reactjs" />
 </p>
 
 <hr>
@@ -17,16 +19,17 @@
   <img src="https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown" alt="Markdown" />
   <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github" alt="Github" />
    <img src="https://img.shields.io/badge/-Gitlab-black?style=for-the-badge&logo=gitlab" alt="Gitlab" />
-  <img src="https://img.shields.io/badge/-Atom-yellowgreen?style=for-the-badge&logo=atom" alt="Atom" />
+  <img src="https://img.shields.io/badge/-Atom-darkgreen?style=for-the-badge&logo=atom" alt="Atom" />
+  <img src="https://img.shields.io/badge/-Tmux-black?style=for-the-badge&logo=tmux" alt="Tmux" />
 </p>
 
 <hr>
 
 <p align="center"><samp><strong>Operating System</strong></samp></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Fedora-blue?style=for-the-badge&logo=Fedora alt="Fedora" />
   <img src="https://img.shields.io/badge/-Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/-Windows-white?style=for-the-badge&logo=windows&logoColor=blue" alt="Windows" />
+  <img src="https://img.shields.io/badge/-Fedora-darkblue?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
 </p>
 
 <hr>
