@@ -37,17 +37,8 @@
 
 <p align="center"><samp><strong>Github Stats</strong></samp></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliakbarzohour&show_icons=true&hide_border=true&count_private=true&theme=react" alt="Github Status" />
-</p>
-
-<p align="center"><samp><strong>Most Used Languages</strong></samp></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliakbarzohour&theme=react&count_private=true&hide_border=true" alt="Most Used Languages" />
-</p>
-
-<p align="center"><samp><strong>Other</strong></samp></p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliakbarzohour&theme=react&hide_border=true" alt="Other Github Status" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliakbarzohour&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Github Status" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliakbarzohour&layout=compact&theme=radical" />
 </p>
 
 <hr>
