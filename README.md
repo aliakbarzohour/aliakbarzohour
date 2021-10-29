@@ -1,12 +1,20 @@
-<p align="center"><h1 align="center"><samp> I'm Aliakbar Zohour </samp></h1></p>
+<p align="center"><h1 align="center"><samp>" I'm Aliakbar Zohour "</samp></h1></p>
 <p align="center"><samp> Programing Lover 💙 And 17 Years Old Student 📘 </samp></p>
 <br>
 
 <p align="center"><samp><strong>Programming Language</strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Javasciprt-black?style=for-the-badge&logo=javascript" alt="Javasciprt" />
-  <img src="https://img.shields.io/badge/-Sass-pink?style=for-the-badge&logo=sass" alt="Sass" />
   <img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python" alt="Python" />
+</p>
+
+<hr>
+<p align="center"><samp><strong>Frame Work and Library</strong></samp></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Jquery-blue?style=for-the-badge&logo=jquery" alt="jquery" />
+  <img src="https://img.shields.io/badge/-Sass-pink?style=for-the-badge&logo=sass" alt="Sass" />
+  <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=black" alt="Bootstarp" />
+  <img src="https://img.shields.io/badge/-Alpine.js-blue?style=for-the-badge&logo=alpine.js" alt="Alpine.js" />
   <img src="https://img.shields.io/badge/-Vuejs-darkgreen?style=for-the-badge&logo=vue.js" alt="Vuejs" />
   <img src="https://img.shields.io/badge/-Reactjs-darkblue?style=for-the-badge&logo=react" alt="Reactjs" />
 </p>
@@ -28,9 +36,11 @@
 
 <p align="center"><samp><strong>Operating System</strong></samp></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+    <img src="https://img.shields.io/badge/-Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/-Kali-black?style=for-the-badge&logo=kalilinux" alt="Kalilinux" />
   <img src="https://img.shields.io/badge/-Windows-white?style=for-the-badge&logo=windows&logoColor=blue" alt="Windows" />
   <img src="https://img.shields.io/badge/-Fedora-darkblue?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
+  <img src="https://img.shields.io/badge/-Debian-darkred?style=for-the-badge&logo=debian" alt="Debian" />
 </p>
 
 <hr>
