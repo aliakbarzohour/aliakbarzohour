@@ -1,5 +1,5 @@
 <p align="center"><h1 align="center"><samp> I'm Aliakbar Zohour </samp></h1></p>
-<p align="center"><samp> Programing Lover 💙 And 17 Years Old Student 📘 From Iran 🇮🇷 </samp></p>
+<p align="center"><samp> Programing Lover 💙 And 17 Years Old Student 📘 </samp></p>
 <br>
 
 <p align="center"><samp><strong>Programming Language</strong></samp></p>
