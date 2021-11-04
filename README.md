@@ -40,8 +40,7 @@
 
 <p align="center"><samp><strong>Operating System</strong></samp></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/-Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/-Kali-black?style=for-the-badge&logo=kalilinux" alt="Kalilinux" />
+  <img src="https://img.shields.io/badge/-Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/-Windows-white?style=for-the-badge&logo=windows&logoColor=blue" alt="Windows" />
   <img src="https://img.shields.io/badge/-Fedora-darkblue?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
   <img src="https://img.shields.io/badge/-Debian-darkred?style=for-the-badge&logo=debian" alt="Debian" />
