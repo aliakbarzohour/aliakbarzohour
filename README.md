@@ -1,11 +1,10 @@
-<p align="center"><h1 align="center"><samp>" I'm Aliakbar Zohour "</samp></h1></p>
-<p align="center"><samp> Programing Lover 💙 And 17 Years Old Student 📘 </samp></p>
-<br>
-
+<p align="center"><h1 align="center"><samp>How am i ???</samp></h1></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/71524940/140406669-70728590-5b8b-4186-8fe9-36908a1bb3cc.gif"/></p>
+<p align="center"><h1 align="center"><samp>" I'm Aliakbar Zohour "</samp></h1></p>
+<p align="center"><samp> I'm basically interested in Apple, but I use Linux to learn new things, I love learning new things, and I always learn new things every time. I shape my life with React, Vue, ... , I make rules with PHP and Python , and I review the stages of my life with Git .</samp></p>
 
+<br />
 <hr>
-
 <p align="center"><samp><strong>Programming Language</strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Javasciprt-black?style=for-the-badge&logo=javascript" alt="Javasciprt" />
@@ -65,14 +64,3 @@
   <a href="https://stackoverflow.com/users/15991132/aliakbar-zohour/"><img src="https://img.shields.io/badge/-Stackoverflow-white?style=for-the-badge&logo=stackoverflow" alt="Stakoverflow" /></a>
  
 </p>
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
