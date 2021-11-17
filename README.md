@@ -40,11 +40,9 @@
 
 <p align="center"><samp><strong>Operating System</strong></samp></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/-Archlinux-black?style=for-the-badge&logo=archlinux" alt="Arch" />
+    <img src="https://img.shields.io/badge/-Arch Based Linuxs-black?style=for-the-badge&logo=archlinux" alt="Arch" />
   <img src="https://img.shields.io/badge/-Windows-white?style=for-the-badge&logo=windows&logoColor=blue" alt="Windows" />
-  <img src="https://img.shields.io/badge/-Fedora-black?style=for-the-badge&logo=fedora&logoColor=blue" alt="Fedora" />
   <img src="https://img.shields.io/badge/-Debian Based linuxs-darkred?style=for-the-badge&logo=debian" alt="Debian" />
-  <img src="https://img.shields.io/badge/-Linux lite-yellow?style=for-the-badge&logo=linux-lite" alt="Linuxlight" />
 
 </p>
 
