@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/-Windows-white?style=for-the-badge&logo=windows&logoColor=blue" alt="Windows" />
   <img src="https://img.shields.io/badge/-Fedora-black?style=for-the-badge&logo=fedora&logoColor=blue" alt="Fedora" />
   <img src="https://img.shields.io/badge/-Debian-darkred?style=for-the-badge&logo=debian" alt="Debian" />
+  <img src="https://img.shields.io/badge/-Linux light-yellow?style=for-the-badge&logo=linux-light" alt="Linuxlight" />
 
 </p>
 
