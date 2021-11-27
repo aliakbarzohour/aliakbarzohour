@@ -18,9 +18,7 @@
   <img src="https://img.shields.io/badge/-Vuejs-darkgreen?style=for-the-badge&logo=vue.js" alt="Vuejs" />
   <img src="https://img.shields.io/badge/-Reactjs-darkblue?style=for-the-badge&logo=react" alt="Reactjs" />
 </p>
-
 <hr>
-
 <p align="center"><samp><strong>Tool And Technology</strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-vscode-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue" alt="Vscode" />
@@ -33,7 +31,6 @@
   <img src="https://img.shields.io/badge/-Gitlab-darkorange?style=for-the-badge&logo=gitlab" alt="Gitlab" />
   <img src="https://img.shields.io/badge/-Atom-darkgreen?style=for-the-badge&logo=atom" alt="Atom" />
   <img src="https://img.shields.io/badge/-Tmux-black?style=for-the-badge&logo=tmux" alt="Tmux" />
-
 </p>
 
 <hr>
@@ -53,14 +50,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aliakbarzohour&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Github Status" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliakbarzohour&layout=compact&theme=radical" />
 </p>
-
 <hr>
-
 <p align="center"><samp><strong>Contact Me</strong></samp></p>
 <p align="center"> 
   <a href="https://aliakbar.zohour@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://virgool.io/@aliakbar.zohour"><img src="https://img.shields.io/badge/-Virgool-white?style=for-the-badge&logo=virgool.io" alt="virgool" /></a>
   <a href="https://www.linkedin.com/in/aliakbar-zohour-54535a21b/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Linkedin" /></a>
   <a href="https://stackoverflow.com/users/15991132/aliakbar-zohour/"><img src="https://img.shields.io/badge/-Stackoverflow-white?style=for-the-badge&logo=stackoverflow" alt="Stakoverflow" /></a>
- 
 </p>
