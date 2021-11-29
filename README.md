@@ -32,15 +32,12 @@
   <img src="https://img.shields.io/badge/-Atom-darkgreen?style=for-the-badge&logo=atom" alt="Atom" />
   <img src="https://img.shields.io/badge/-Tmux-black?style=for-the-badge&logo=tmux" alt="Tmux" />
 </p>
-
 <hr>
-
 <p align="center"><samp><strong>Operating System</strong></samp></p>
 <p align="center">
     <img src="https://img.shields.io/badge/-Arch Based Linuxs-black?style=for-the-badge&logo=archlinux" alt="Arch" />
   <img src="https://img.shields.io/badge/-Windows-white?style=for-the-badge&logo=windows&logoColor=blue" alt="Windows" />
   <img src="https://img.shields.io/badge/-Debian Based linuxs-darkred?style=for-the-badge&logo=debian" alt="Debian" />
-
 </p>
 
 <hr>
