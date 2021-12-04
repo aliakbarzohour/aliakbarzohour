@@ -38,6 +38,7 @@
     <img src="https://img.shields.io/badge/-Arch Based Linuxs-black?style=for-the-badge&logo=archlinux" alt="Arch" />
   <img src="https://img.shields.io/badge/-Windows-white?style=for-the-badge&logo=windows&logoColor=blue" alt="Windows" />
   <img src="https://img.shields.io/badge/-Debian Based linuxs-darkred?style=for-the-badge&logo=debian" alt="Debian" />
+  <img src="https://img.shields.io/badge/-Redhat Based linuxs-red?style=for-the-badge&logo=redhat" alt="fedora" />
 </p>
 
 <hr>
