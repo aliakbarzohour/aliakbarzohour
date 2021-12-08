@@ -50,6 +50,8 @@
 <p align="center"><samp><strong>Contact Me</strong></samp></p>
 <p align="center"> 
   <a href="https://aliakbar.zohour@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  
+  
   <a href="https://virgool.io/@aliakbar.zohour"><img src="https://img.shields.io/badge/-Virgool-white?style=for-the-badge&logo=virgool.io" alt="virgool" /></a>
   <a href="https://www.linkedin.com/in/aliakbar-zohour-54535a21b/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Linkedin" /></a>
   <a href="https://stackoverflow.com/users/15991132/aliakbar-zohour/"><img src="https://img.shields.io/badge/-Stackoverflow-white?style=for-the-badge&logo=stackoverflow" alt="Stakoverflow" /></a>
