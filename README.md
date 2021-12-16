@@ -39,6 +39,7 @@
     <img src="https://img.shields.io/badge/-Arch Based Linuxs-black?style=for-the-badge&logo=archlinux" alt="Arch" />
   <img src="https://img.shields.io/badge/-Windows-white?style=for-the-badge&logo=windows&logoColor=blue" alt="Windows" />
   <img src="https://img.shields.io/badge/-Debian Based linuxs-darkred?style=for-the-badge&logo=debian" alt="Debian" />
+  <img src="https://img.shields.io/badge/-Mac OS-darkpurple?style=for-the-badge&logo=macos" alt="Macos" />
 </p>
 <hr>
 <p align="center"><samp><strong>Github Stats</strong></samp></p>
