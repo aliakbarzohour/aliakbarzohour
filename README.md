@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/-Gitlab-darkorange?style=for-the-badge&logo=gitlab" alt="Gitlab" />
   <img src="https://img.shields.io/badge/-Atom-darkgreen?style=for-the-badge&logo=atom" alt="Atom" />
   <img src="https://img.shields.io/badge/-Tmux-black?style=for-the-badge&logo=tmux" alt="Tmux" />
-  <img src="https://img.shields.io/badge/-Faker.js-red?style=for-the-badge&logo=javascript" alt="faker" />
+  <img src="https://img.shields.io/badge/-Faker.js-red?style=for-the-badge&logo=javascript&logoColor=darkred" alt="faker" />
 </p>
 <hr>
 <p align="center"><samp><strong>Operating System</strong></samp></p>
