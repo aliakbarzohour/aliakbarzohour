@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/badge/-Sass-pink?style=for-the-badge&logo=sass" alt="Sass" />
   <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=black" alt="Bootstarp" />
   <img src="https://img.shields.io/badge/-Alpine.js-blue?style=for-the-badge&logo=alpine.js" alt="Alpine.js" />
-  <img src="https://img.shields.io/badge/-Vuejs-darkgreen?style=for-the-badge&logo=vue.js" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/-Reactjs-darkblue?style=for-the-badge&logo=react" alt="React.js" />
+  <img src="https://img.shields.io/badge/-Vue.js-darkgreen?style=for-the-badge&logo=vue.js" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/-React.js-darkblue?style=for-the-badge&logo=react" alt="React.js" />
 </p>
 <hr>
 <p align="center"><samp><strong>Tool And Technology</strong></samp></p>
