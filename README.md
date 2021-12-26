@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/-Jquery-blue?style=for-the-badge&logo=jquery" alt="jquery" />
   <img src="https://img.shields.io/badge/-Sass-pink?style=for-the-badge&logo=sass" alt="Sass" />
   <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=black" alt="Bootstarp" />
+  <img src="https://img.shields.io/badge/-Semantic UI-black?style=for-the-badge&logo=semanticui&logoColor=lightgreen" alt="semantic" />
+ 
 
   
 </p>
