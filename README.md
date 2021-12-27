@@ -18,9 +18,6 @@
   <img src="https://img.shields.io/badge/-Sass-pink?style=for-the-badge&logo=sass" alt="Sass" />
   <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=black" alt="Bootstarp" />
   <img src="https://img.shields.io/badge/-Semantic UI-lightgreen?style=for-the-badge&logo=semanticui" alt="semantic" />
- 
-
-  
 </p>
 <hr>
 <p align="center"><samp><strong>Tool And Technology</strong></samp></p>
