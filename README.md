@@ -30,7 +30,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-vscode-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue" alt="Vscode" />
   <img src="https://img.shields.io/badge/-Git-gray?style=for-the-badge&logo=git" alt="Git" />
-  <img src="https://img.shields.io/badge/-Jenkins-darkred?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins" />
   <img src="https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown" alt="Markdown" />
   <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/-Swiper-purple?style=for-the-badge&logo=swiper" alt="swiper" />
