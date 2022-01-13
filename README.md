@@ -8,7 +8,6 @@
 <p align="center"><samp><strong>Programming Language</strong></samp></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-PHP-9cf?style=for-the-badge&logo=php&logoColor=black" alt="PHP" />
   <img src="https://img.shields.io/badge/-Javasciprt-black?style=for-the-badge&logo=javascript" alt="Javasciprt" />
   <img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python" alt="Python" />
 </p>
