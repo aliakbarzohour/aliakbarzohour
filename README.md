@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/-Sass-pink?style=for-the-badge&logo=sass" alt="Sass" />
   <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstarp" />
   <img src="https://img.shields.io/badge/-Semantic UI-lightgreen?style=for-the-badge&logo=Semantic-UI" alt="semantic" />
-  <img src="https://img.shields.io/badge/-Python Library-#012?style=for-the-badge&logo=Python3" alt="os" />
+  <img src="https://img.shields.io/badge/-Python Library-black?style=for-the-badge&logo=Python" alt="os" />
 </p>
 <hr>
 <p align="center"><samp><strong>Tool And Technology</strong></samp></p>
