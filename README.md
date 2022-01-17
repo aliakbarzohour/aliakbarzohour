@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python" alt="Python" />
 </p>
 <hr>
-
 <p align="center"><samp><strong>Frame Work and Library</strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-React.js-darkblue?style=for-the-badge&logo=react" alt="React.js" />
