@@ -13,14 +13,15 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-React.js-darkblue?style=for-the-badge&logo=react" alt="React.js" />
   <!-- <img src="https://img.shields.io/badge/-Angular-darkred?style=for-the-badge&logo=Angular" alt="Angular" /> -->
+  <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstarp" />
   <img src="https://img.shields.io/badge/-Alpine.js-9cf?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine.js" />
   <img src="https://img.shields.io/badge/-Jquery-blue?style=for-the-badge&logo=jquery" alt="jquery" />
-  <img src="https://img.shields.io/badge/-Tailwind-lightblue?style=for-the-badge&logo=Tailwind-css" alt="tailwind" />
-  <img src="https://img.shields.io/badge/-Materialize-red?style=for-the-badge&logo=materialize" alt="materail" />
+  <img src="https://img.shields.io/badge/-Materialize-red?style=for-the-badge&logo=materialize-css" alt="materail" />
   <img src="https://img.shields.io/badge/-Sass-pink?style=for-the-badge&logo=sass" alt="Sass" />
-  <img src="https://img.shields.io/badge/-Semantic UI-lightgreen?style=for-the-badge&logo=Semantiui" alt="semantic" />
+  <img src="https://img.shields.io/badge/-Semantic UI-lightgreen?style=for-the-badge&logo=Semanti-ui-css" alt="semantic" />
   <img src="https://img.shields.io/badge/-Python Library-black?style=for-the-badge&logo=Python&logoColor=9cf" alt="os" />
-  <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstarp" />
+  <img src="https://img.shields.io/badge/-Tailwind-darkblue?style=for-the-badge&logo=Tailwind-css" alt="tailwind" />
+
 
 </p>
 <hr>
