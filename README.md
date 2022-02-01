@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/-Semantic UI-lightgreen?style=for-the-badge&logo=Semantiui-css" alt="semantic" />
   <img src="https://img.shields.io/badge/-Python Library-black?style=for-the-badge&logo=Python&logoColor=9cf" alt="os" />
   <img src="https://img.shields.io/badge/-Tailwind-darkblue?style=for-the-badge&logo=Tailwind-css" alt="tailwind" />
-
-
 </p>
 <hr>
 
