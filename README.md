@@ -5,8 +5,8 @@
 <br />
 <p align="center"><samp><strong>Programming Language</strong></samp></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Javasciprt-yellow?style=for-the-badge&logo=javascript" alt="Javasciprt" />
-  <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-Javasciprt-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Javasciprt" />
+  <img src="https://img.shields.io/badge/-Python-9cf?style=for-the-badge&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/-Typesciprt-informational?style=for-the-badge&logo=typescript&logoColor=white" alt="Typesciprt" />
 </p>
 <hr>
@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-React.js-darkblue?style=for-the-badge&logo=react" alt="React.js" />
   <!-- <img src="https://img.shields.io/badge/-Angular-darkred?style=for-the-badge&logo=Angular" alt="Angular" /> -->
-  <img src="https://img.shields.io/badge/-Bootstrap-bluevoilet?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstarp" />
+  <img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstarp" />
   <img src="https://img.shields.io/badge/-Alpine.js-9cf?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine.js" />
   <img src="https://img.shields.io/badge/-Jquery-blue?style=for-the-badge&logo=jquery" alt="jquery" />
   <img src="https://img.shields.io/badge/-Materialize-red?style=for-the-badge&logo=Materialize-css" alt="materail" />
