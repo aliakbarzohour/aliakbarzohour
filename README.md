@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Javasciprt-black?style=for-the-badge&logo=javascript" alt="Javasciprt" />
   <img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-Typesciprt-darkblue?style=for-the-badge&logo=typescript" alt="Typesciprt" />
 </p>
 <hr>
 <p align="center"><samp><strong>Frame Work and Library</strong></samp></p>
