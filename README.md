@@ -5,8 +5,8 @@
 <br />
 <p align="center"><samp><strong>Programming Language</strong></samp></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Javasciprt-black?style=for-the-badge&logo=javascript" alt="Javasciprt" />
-  <img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-Javasciprt-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="Javasciprt" />
+  <img src="https://img.shields.io/badge/-Python-darkinformational?style=for-the-badge&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/-Typesciprt-informational?style=for-the-badge&logo=typescript&logoColor=white" alt="Typesciprt" />
 </p>
 <hr>
