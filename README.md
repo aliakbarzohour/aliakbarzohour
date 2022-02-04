@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/-Faker.js-red?style=for-the-badge&logo=javascript&logoColor=white" alt="faker" />
 </p>
 <hr>
+<!-- my oprating system's  -->
 <p align="center"><samp><strong>Operating System</strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Redhat Based linuxs-red?style=for-the-badge&logo=redhat" alt="fedora" />
