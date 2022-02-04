@@ -55,13 +55,13 @@
   <img src="https://img.shields.io/badge/-Debian Based linuxs-darkred?style=for-the-badge&logo=debian" alt="Debian" />
 </p>
 <hr>
+<!-- my github status  -->
 <p align="center"><samp><strong>Github Stats</strong></samp></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aliakbarzohour&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Github Status" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliakbarzohour&layout=compact&theme=radical" />
 </p>
 <hr>
-
 <!-- my social media account's  -->
 <p align="center"><samp><strong>Contact Me</strong></samp></p>
 <p align="center"> 
