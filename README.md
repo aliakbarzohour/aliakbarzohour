@@ -5,6 +5,7 @@
 <p align="center"><h1 align="center"><samp>" I'm Aliakbar Zohour "</samp></h1></p>
 <p align="center"><samp>I'm basically interested in Apple, but I use Linux to learn new things, I love learning new things, and I always learn new things every time. I shape my life with React, Vue, ..., make rules with PHP and Python, and review my life with Git. I recently converted to DevOps and tried to automate the CI / CD cycle with various tools like Jenkins.</samp></p>
 <br />
+<!-- add a badge for showing programming language  -->
 <p align="center"><samp><strong>Programming Language</strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Javasciprt-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Javasciprt" />
