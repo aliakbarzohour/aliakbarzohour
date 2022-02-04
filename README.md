@@ -61,6 +61,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliakbarzohour&layout=compact&theme=radical" />
 </p>
 <hr>
+
+<!-- my social media account's  -->
 <p align="center"><samp><strong>Contact Me</strong></samp></p>
 <p align="center"> 
   <a href="https://aliakbar.zohour@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
