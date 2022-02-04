@@ -23,9 +23,7 @@
   <img src="https://img.shields.io/badge/-Python Library-black?style=for-the-badge&logo=Python&logoColor=9cf" alt="os" />
   <img src="https://img.shields.io/badge/-Tailwind-darkblue?style=for-the-badge&logo=Tailwind-css" alt="tailwind" />
 </p>
-
 <hr>
-
 <p align="center"><samp><strong>Tool And Technology</strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-vscode-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue" alt="Vscode" />
