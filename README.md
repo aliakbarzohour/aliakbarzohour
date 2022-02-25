@@ -10,7 +10,7 @@
 <!-- add a badge for showing programming language  -->
 <p align="center"><samp><strong>Programming Language</strong></samp></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/-PHP-gray?style=for-the-badge&logo=php&logoColor=white" alt="php" />
+    <img src="https://img.shields.io/badge/-PHP-informational?style=for-the-badge&logo=php&logoColor=white" alt="php" />
   <img src="https://img.shields.io/badge/-Javasciprt-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Javasciprt" />
   <img src="https://img.shields.io/badge/-Python-9cf?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
   <img src="https://img.shields.io/badge/-Typesciprt-informational?style=for-the-badge&logo=typescript&logoColor=white" alt="Typesciprt" />
