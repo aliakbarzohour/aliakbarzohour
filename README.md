@@ -35,8 +35,8 @@
 <!-- add a technology's  -->
 <p align="center"><samp><strong>Tool And Technology</strong></samp></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-vscode-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue" alt="Vscode" />
   <img src="https://img.shields.io/badge/-Word Press-blue?style=for-the-badge&logo=wordpress" alt="word" />
+  <img src="https://img.shields.io/badge/-vscode-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue" alt="Vscode" />
   <img src="https://img.shields.io/badge/-Git-gray?style=for-the-badge&logo=git" alt="Git" />
   <img src="https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown" alt="Markdown" />
   <img src="https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
