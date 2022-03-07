@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/-Alpine.js-9cf?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine.js" />
   <img src="https://img.shields.io/badge/-Jquery-blue?style=for-the-badge&logo=jquery" alt="jquery" />
   <img src="https://img.shields.io/badge/-Materialize-red?style=for-the-badge&logo=materialize-css" alt="materail" />
-  <img src="https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+  <img src="https://img.shields.io/badge/-Redux-blueviolet?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
   <img src="https://img.shields.io/badge/-Sass-pink?style=for-the-badge&logo=sass" alt="Sass" />
   <img src="https://img.shields.io/badge/-Semantic UI-lightgreen?style=for-the-badge&logo=Semantiui-css" alt="semantic" />
   <img src="https://img.shields.io/badge/-Python Library-black?style=for-the-badge&logo=Python&logoColor=9cf" alt="os" />
