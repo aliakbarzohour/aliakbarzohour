@@ -49,7 +49,9 @@
   <img src="https://img.shields.io/badge/-Tmux-black?style=for-the-badge&logo=tmux" alt="Tmux" />
   <img src="https://img.shields.io/badge/-Faker.js-red?style=for-the-badge&logo=javascript&logoColor=white" alt="faker" />
 </p>
+
 <hr>
+
 <!-- my oprating system's  -->
 <p align="center"><samp><strong>Operating System</strong></samp></p>
 <p align="center">
