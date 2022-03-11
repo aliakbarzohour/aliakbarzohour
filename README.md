@@ -1,12 +1,18 @@
+
 <!-- title for this readme  -->
 <p align="center"><h1 align="center"><samp>How am i ???</samp></h1></p>
+
 <!-- add a gif for banner  -->
 <p align="center"><img src="https://user-images.githubusercontent.com/71524940/140406669-70728590-5b8b-4186-8fe9-36908a1bb3cc.gif"/></p>
+
 <!-- my name  -->
 <p align="center"><h1 align="center"><samp>" I'm Aliakbar Zohour "</samp></h1></p>
+
 <!-- bio ... -->
 <p align="center"><samp>I'm basically interested in Apple, but I use Linux to learn new things, I love learning new things, and I always learn new things every time. I shape my life with React, Vue, ..., make rules with PHP and Python, and review my life with Git. I recently converted to DevOps and tried to automate the CI / CD cycle with various tools like Jenkins.</samp></p>
+
 <br />
+
 <!-- add a badge for showing programming language  -->
 <p align="center"><samp><strong>Programming Language</strong></samp></p>
 <p align="center">
@@ -15,7 +21,9 @@
     <img src="https://img.shields.io/badge/-PHP-9cf?style=for-the-badge&logo=php&logoColor=black" alt="php" />
     <img src="https://img.shields.io/badge/-Typesciprt-informational?style=for-the-badge&logo=typescript&logoColor=white" alt="Typesciprt" />
 </p>
+
 <hr>
+
 <!-- add a badge for showing framework and librarys  -->
 <p align="center"><samp><strong>Frame Work and Library</strong></samp></p>
 <p align="center">
@@ -31,7 +39,9 @@
   <img src="https://img.shields.io/badge/-Python Library-black?style=for-the-badge&logo=Python&logoColor=9cf" alt="os" />
   <img src="https://img.shields.io/badge/-Tailwind-darkblue?style=for-the-badge&logo=Tailwind-css" alt="tailwind" />
 </p>
+
 <hr>
+
 <!-- add a technology's  -->
 <p align="center"><samp><strong>Tool And Technology</strong></samp></p>
 <p align="center">
