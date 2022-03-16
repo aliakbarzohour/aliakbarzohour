@@ -70,6 +70,7 @@
   <img src="https://img.shields.io/badge/-Debian Based linuxs-darkred?style=for-the-badge&logo=debian" alt="Debian" />
 </p>
 <hr>
+
 <!-- my github status  -->
 <p align="center"><samp><strong>Github Stats</strong></samp></p>
 <p align="center">
