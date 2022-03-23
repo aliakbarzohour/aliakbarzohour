@@ -1,6 +1,5 @@
 <!-- title for this readme  -->
 <p align="center"><h1 align="center"><samp>How am i ???</samp></h1></p>
-
 <!-- add a gif for banner  -->
 <p align="center"><img src="https://user-images.githubusercontent.com/71524940/140406669-70728590-5b8b-4186-8fe9-36908a1bb3cc.gif"/></p>
 <!-- my name  -->
@@ -16,6 +15,7 @@
     <img src="https://img.shields.io/badge/-PHP-9cf?style=for-the-badge&logo=php&logoColor=black" alt="php" />
     <img src="https://img.shields.io/badge/-Typesciprt-informational?style=for-the-badge&logo=typescript&logoColor=white" alt="Typesciprt" />
 </p>
+
 <hr>
 <!-- add a badge for showing framework and librarys  -->
 <p align="center"><samp><strong>Frame Work and Library</strong></samp></p>
