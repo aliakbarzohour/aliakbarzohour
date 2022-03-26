@@ -75,6 +75,7 @@
 </p>
 
 <hr>
+
 <!-- my social media account's  -->
 <p align="center"><samp><strong>Contact Me</strong></samp></p>
 <p align="center"> 
