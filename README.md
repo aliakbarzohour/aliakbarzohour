@@ -31,8 +31,8 @@
   <img src="https://img.shields.io/badge/-Sass-pink?style=for-the-badge&logo=sass" alt="Sass" />
   <img src="https://img.shields.io/badge/-Semantic UI-lightgreen?style=for-the-badge&logo=semanticui" alt="semantic" />
   <img src="https://img.shields.io/badge/-Python Library-black?style=for-the-badge&logo=Python&logoColor=9cf" alt="os" />
-  <img src="https://img.shields.io/badge/-Tailwind-darkblue?style=for-the-badge&logo=Tailwind-css" alt="tailwind" />
-  <img src="https://img.shields.io/badge/-Next Js-lightblue?style=for-the-badge&logo=next.js" alt="next.js" />
+  <img src="https://img.shields.io/badge/-Tailwind-darkblue?style=for-the-badge&logo=tailwind.css" alt="tailwind" />
+  <img src="https://img.shields.io/badge/-Next Js-lightblue?style=for-the-badge&logo=next.js&logoColor=black" alt="next.js" />
 </p>
 <hr>
 
