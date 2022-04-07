@@ -71,6 +71,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aliakbarzohour&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Github Status" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliakbarzohour&layout=compact&theme=radical" />
 </p>
+
 <hr>
 <!-- my social media account's  -->
 <p align="center"><samp><strong>Contact Me</strong></samp></p>
