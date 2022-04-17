@@ -22,7 +22,7 @@
 <p align="center"><samp><strong>Frame Work and Library</strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-React.js-darkblue?style=for-the-badge&logo=react" alt="React.js" />
-  <img src="https://img.shields.io/badge/-Angular-darkred?style=for-the-badge&logo=Angular" alt="Angular" />
+  <img src="https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=Angular" alt="Angular" />
   <img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstarp" />
   <img src="https://img.shields.io/badge/-Alpine.js-9cf?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine.js" />
   <img src="https://img.shields.io/badge/-Jquery-blue?style=for-the-badge&logo=jquery" alt="jquery" />
