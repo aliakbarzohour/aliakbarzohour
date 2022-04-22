@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/-Next Js-lightblue?style=for-the-badge&logo=next.js&logoColor=black" alt="next.js" />
 </p>
 <hr>
-
 <!-- add a technology's  -->
 <p align="center"><samp><strong>Tool And Technology</strong></samp></p>
 <p align="center">
