@@ -1,83 +1,64 @@
-<!-- title for this readme  -->
-<p align="center"><h1 align="center"><samp>How am i ???</samp></h1></p>
+Hi 👋 My name is Aliakbar Zohour
+================================
+
+Front End Developer | Devops
+----------------------------
+
 <!-- add a gif for banner  -->
 <p align="center"><img src="https://user-images.githubusercontent.com/71524940/140406669-70728590-5b8b-4186-8fe9-36908a1bb3cc.gif"/></p>
-<!-- my name  -->
-<p align="center"><h1 align="center"><samp>" I'm Aliakbar Zohour "</samp></h1></p>
-<!-- bio ... -->
-<p align="center"><samp>I'm basically interested in Apple, but I use Linux to learn new things, I love learning new things, and I always learn new things every time. I shape my life with React, Vue, ..., make rules with PHP and Python, and review my life with Git. I recently converted to DevOps and tried to automate the CI / CD cycle with various tools like Jenkins.</samp></p>
-<br />
-<!-- add a badge for showing programming language  -->
-<p align="center"><samp><strong>Programming Language</strong></samp></p>
-<p align="center">
-    <img src="https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/-Javasciprt-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Javasciprt" />
-    <img src="https://img.shields.io/badge/-PHP-9cf?style=for-the-badge&logo=php&logoColor=black" alt="php" />
-    <img src="https://img.shields.io/badge/-Typesciprt-informational?style=for-the-badge&logo=typescript&logoColor=white" alt="Typesciprt" />
-</p>
-<hr>
-<!-- add a badge for showing framework and librarys  -->
-<p align="center"><samp><strong>Frame Work and Library</strong></samp></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-React.js-darkblue?style=for-the-badge&logo=react" alt="React.js" />
-  <img src="https://img.shields.io/badge/-Angular-darkred?style=for-the-badge&logo=Angular" alt="Angular" />
-  <img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstarp" />
-  <img src="https://img.shields.io/badge/-Alpine.js-9cf?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine.js" />
-  <img src="https://img.shields.io/badge/-Jquery-blue?style=for-the-badge&logo=jquery" alt="jquery" />
-  <img src="https://img.shields.io/badge/-Materialize-red?style=for-the-badge&logo=materialize.css" alt="materail" />
-  <img src="https://img.shields.io/badge/-Redux-blueviolet?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-  <img src="https://img.shields.io/badge/-Sass-pink?style=for-the-badge&logo=sass" alt="Sass" />
-  <img src="https://img.shields.io/badge/-Semantic UI-lightgreen?style=for-the-badge&logo=semanticui.css" alt="semantic" />
-  <img src="https://img.shields.io/badge/-Python Library-black?style=for-the-badge&logo=Python&logoColor=9cf" alt="os" />
-  <img src="https://img.shields.io/badge/-Tailwind-darkblue?style=for-the-badge&logo=tailwind" alt="tailwind" />
-  <img src="https://img.shields.io/badge/-Next Js-lightblue?style=for-the-badge&logo=next.js&logoColor=black" alt="next.js" />
-</p>
-<hr>
-<!-- add a technology's  -->
-<p align="center"><samp><strong>Tool And Technology</strong></samp></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Word Press-blue?style=for-the-badge&logo=wordpress" alt="word" />
-  <img src="https://img.shields.io/badge/-vscode-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue" alt="Vscode" />
-  <img src="https://img.shields.io/badge/-Git-gray?style=for-the-badge&logo=git" alt="Git" />
-  <img src="https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown" alt="Markdown" />
-  <img src="https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Swiper-purple?style=for-the-badge&logo=swiper" alt="swiper" />
-  <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github" alt="Github" />
-  <img src="https://img.shields.io/badge/-Gitlab-darkorange?style=for-the-badge&logo=gitlab" alt="Gitlab" />
-  <img src="https://img.shields.io/badge/-Terminal Tools-black?style=for-the-badge&logo=linux&logoColor=white" alt="terminal" />
-  <img src="https://img.shields.io/badge/-Photohop-darkblue?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="phoro" />
-  <img src="https://img.shields.io/badge/-Atom-darkgreen?style=for-the-badge&logo=atom" alt="Atom" />
-  <img src="https://img.shields.io/badge/-Tmux-black?style=for-the-badge&logo=tmux" alt="Tmux" />
-  <img src="https://img.shields.io/badge/-Faker.js-red?style=for-the-badge&logo=javascript&logoColor=white" alt="faker" />
-</p>
-<hr>
-<!-- my oprating system's  -->
-<p align="center"><samp><strong>Operating System</strong></samp></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Redhat Based linuxs-red?style=for-the-badge&logo=redhat" alt="fedora" />
-  <img src="https://img.shields.io/badge/-Arch Based Linuxs-black?style=for-the-badge&logo=archlinux" alt="Arch" />
-  <img src="https://img.shields.io/badge/-Mac OS-blueviolet?style=for-the-badge&logo=apple" alt="Macos" />
-  <img src="https://img.shields.io/badge/-Windows-white?style=for-the-badge&logo=windows&logoColor=blue" alt="Windows" />
-    <img src="https://img.shields.io/badge/-Free BSD-red?style=for-the-badge&logo=freebsd" alt="free bsd" />
-  <img src="https://img.shields.io/badge/-Debian Based linuxs-darkred?style=for-the-badge&logo=debian" alt="Debian" />
-</p>
-<hr>
-<!-- my github status  -->
-<p align="center"><samp><strong>Github Stats</strong></samp></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliakbarzohour&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Github Status" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliakbarzohour&layout=compact&theme=radical" />
+
+
+I'm basically interested in Apple, but I use Linux to learn new things, I love learning new things, and I always learn new things every time. I shape my life with React, Vue, ..., make rules with PHP and Python, and review my life with Git. I recently converted to DevOps and tried to automate the CI / CD cycle with various tools like Jenkins.
+
+* 🖥️  See my portfolio at [My Portfolio](http://www.linkedin.com/in/aliakbarzohour/)
+* ✉️  You can contact me at [aliakbar.zohour@gmail.com](mailto:aliakbar.zohour@gmail.com)
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vue-colored.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
 
-<hr>
-<!-- my social media account's  -->
-<p align="center"><samp><strong>Contact Me</strong></samp></p>
-<p align="center"> 
-  <a href="https://aliakbar.zohour@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://virgool.io/@aliakbar.zohour"><img src="https://img.shields.io/badge/-Virgool-white?style=for-the-badge&logo=virgool.io" alt="virgool" /></a>
-  <a href="https://www.linkedin.com/in/aliakbarzohour"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Linkedin" /></a>
-  <a href="https://aparat.com/Aliakbar_Zohour/"><img src="https://img.shields.io/badge/-Aparat-purple?style=for-the-badge&logo=aparat" alt="Aparat" /></a>
-  <a href="https://stackoverflow.com/users/15991132/aliakbar-zohour/"><img src="https://img.shields.io/badge/-Stackoverflow-white?style=for-the-badge&logo=stackoverflow" alt="Stakoverflow" /></a>
-  <a href="https://www.youtube.com/channel/UCr8A50DK0hfk7XE_aqBGHjA"><img src="https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=youtube" alt="youtube" /></a>
-  <a href="https://twitter.com/aliakbar_zohour/"><img src="https://img.shields.io/badge/-Twitter-darkblue?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
-   <a href="https://instagram.com/ali.akbarzohour/"><img src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram" alt="instagram" /></a></p>
+### Socials
+
+<p align="left"> <a href="https://www.github.com/aliakbarzohour" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ali.akbarzohour" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aliakbarzohour/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@aliakbarzohour" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCr8A50DK0hfk7XE_aqBGHjA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/aliakbarzohour"><img src="https://github-readme-stats.vercel.app/api?username=aliakbarzohour&show_icons=true&hide=issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="aliakbarzohour's GitHub stats" /></a>
+
+<a href="http://www.github.com/aliakbarzohour"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aliakbarzohour&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/aliakbarzohour"><img src="https://activity-graph.herokuapp.com/graph?username=aliakbarzohour&bg_color=22272e&color=ffffff&line=0891b2&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/aliakbarzohour/python_todo_app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aliakbarzohour&repo=python_todo_app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/aliakbarzohour/Shadow-Generator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aliakbarzohour&repo=Shadow-Generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/aliakbarzohour/Full_Stack_mini_project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aliakbarzohour&repo=Full_Stack_mini_project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/aliakbarzohour/Clock" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aliakbarzohour&repo=Clock&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a></div>
