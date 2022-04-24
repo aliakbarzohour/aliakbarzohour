@@ -1,15 +1,11 @@
-
-<!-- add a gif for banner  -->
-<p align="center">
-
-  Hi 👋 My name is Aliakbar Zohour
+PREVIEW
+MARKDOWN
+COPY
+Hi 👋 My name is Aliakbar Zohour
 ================================
 
 Front End Developer | Devops
 ----------------------------
-
-</p>
-
 
 I'm basically interested in Apple, but I use Linux to learn new things, I love learning new things, and I always learn new things every time. I shape my life with React, Vue, ..., make rules with PHP and Python, and review my life with Git. I recently converted to DevOps and tried to automate the CI / CD cycle with various tools like Jenkins.
 
