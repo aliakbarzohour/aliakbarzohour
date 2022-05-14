@@ -12,12 +12,12 @@ And . . .
 
 <hr />
 
-<p align="center">
+<div align="center">
 👨‍💻 All of my projects are available at [https://github.com/aliakbarzohour](https://github.com/aliakbarzohour)<br />
 📝 I regularly write articles on [https://virgool.io/@aliakbar.zohour](https://virgool.io/@aliakbar.zohour)<br />
 📫 How to reach me **aliakbar.zohour@gmail.com**<br />
 📄 Know about my experiences [https://www.linkedin.com/in/aliakbarzohour/](https://www.linkedin.com/in/aliakbarzohour/)
-</p>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
