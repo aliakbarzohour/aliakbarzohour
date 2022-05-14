@@ -28,7 +28,7 @@ And . . .
 <a href="https://linkedin.com/in/aliakbarzohour/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliakbarzohour/" height="30" width="40" /></a>
 <a href="https://instagram.com/ali.akbarzohour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali.akbarzohour" height="30" width="40" /></a>
 <a href="https://medium.com/@aliakbarzohour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aliakbarzohour" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucr8a50dk0hfk7xe_aqbghja/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucr8a50dk0hfk7xe_aqbghja/featured" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCr8A50DK0hfk7XE_aqBGHjA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucr8a50dk0hfk7xe_aqbghja/featured" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
