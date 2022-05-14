@@ -12,17 +12,18 @@ And . . .
 
 <hr />
 
-- 👨‍💻 All of my projects are available at [https://github.com/aliakbarzohour](https://github.com/aliakbarzohour)
+<p align="center">
 
-- 📝 I regularly write articles on [https://virgool.io/@aliakbar.zohour](https://virgool.io/@aliakbar.zohour)
+  👨‍💻 All of my projects are available at [https://github.com/aliakbarzohour](https://github.com/aliakbarzohour)
 
-- 📫 How to reach me **aliakbar.zohour@gmail.com**
+  📝 I regularly write articles on [https://virgool.io/@aliakbar.zohour](https://virgool.io/@aliakbar.zohour)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aliakbarzohour/](https://www.linkedin.com/in/aliakbarzohour/)
+  📫 How to reach me **aliakbar.zohour@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+  📄 Know about my experiences [https://www.linkedin.com/in/aliakbarzohour/](https://www.linkedin.com/in/aliakbarzohour/)
+
+ 
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
