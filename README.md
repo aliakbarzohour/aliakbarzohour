@@ -3,7 +3,6 @@
 
 <hr />
 
-
 <p align="center">
 I entered the world of programming in 2019 and started my world with the site design section, and after working for a while in the Front-End section as a freelancer, I entered the DevOps section, where I saw the charms of my world. , Like Linux and using different tools that were of particular interest to me.
 And then I went back to the front-end section, and with the help of my memory and my talents and the help of my friends, I was able to be strong in this section and do very well.
