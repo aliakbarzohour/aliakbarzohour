@@ -24,7 +24,9 @@ And . . .
   
 </div>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me : </h3>
+
+
 <p align="center">
 <a href="https://linkedin.com/in/aliakbarzohour/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliakbarzohour/" height="30" width="40" /></a>
 <a href="https://instagram.com/ali.akbarzohour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali.akbarzohour" height="30" width="40" /></a>
