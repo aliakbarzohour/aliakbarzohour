@@ -7,6 +7,7 @@ And then I went back to the front-end section, and with the help of my memory an
 I have over 70 active articles in Persian and over 12 articles in English, and I do programming training and experience sharing in spaces such as YouTube.
 And . . .
 </p>
+
 <hr />
 
 <div align="center">
