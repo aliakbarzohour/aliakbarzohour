@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aliakbar Zohour</h1>
 <h3 align="center">Front End Developer | DevOps</h3>
 
-
 <hr />
 
 <p align="center">
