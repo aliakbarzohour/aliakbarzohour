@@ -46,6 +46,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
 </div>  
 <br />
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aliakbarzohour&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aliakbarzohour&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" /></div>  
 <br />
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliakbarzohour&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliakbarzohour&hide_border=true&layout=compact" align="center" style="width: 50%" /></div>  
