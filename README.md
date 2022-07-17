@@ -46,7 +46,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
 </div>  
+
 <br />
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aliakbarzohour&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 48%; display: inline-block;" /></div>  
 <br />
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliakbarzohour&hide_border=true&layout=compact" align="center" style="width: 48%; display: inline-block;" /></div>  
