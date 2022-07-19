@@ -1,5 +1,4 @@
 # **<div align="center">Hi 👋, I'm Aliakbar Zohour</div>**  
-  
 
 ### **<div align="center">Front End Developer</div>**  
   
