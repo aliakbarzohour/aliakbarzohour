@@ -5,7 +5,6 @@
 #### <div align="center">I entered the world of programming in 2019 and started my world with the site design section, and after working for a while in the Front-End section as a freelancer, I entered the DevOps section, where I saw the charms of my world. , Like Linux and using different tools that were of particular interest to me. And then I went back to the front-end section, and with the help of my memory and my talents and the help of my friends, I was able to be strong in this section and do very well. I have over 70 active articles in Persian and over 12 articles in English, and I do programming training and experience sharing in spaces such as YouTube. And . . .</div>  
 
 
-
 <div align="center">
 <a href="https://linkedin.com/in/aliakbarzohour/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
