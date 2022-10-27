@@ -2,8 +2,6 @@
 I entered the world of programming in 2019 and started my world with the site design section, and after working for a while in the Front-End section as a freelancer, I entered the DevOps section, where I saw the charms of my world. , Like Linux and using different tools that were of particular interest to me. And then I went back to the front-end section, and with the help of my memory and my talents and the help of my friends, I was able to be strong in this section and do very well. I have over 140 active articles in Persian and over 14 articles in English, and I do programming training and experience sharing in spaces such as YouTube. And . . .
 
 
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali.akbarzohour) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aliakbarzohour/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aliakbarzohour) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/ucr8a50dk0hfk7xe_aqbghja/featured) 
 
