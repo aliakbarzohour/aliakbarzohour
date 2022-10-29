@@ -23,6 +23,7 @@ I entered the world of programming in 2019 and started my world with the site de
 
 
 <h3> ✍️ Random Dev Quote </h3>
+  
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 <h3> 😂 Random Dev Meme </h3>
