@@ -7,7 +7,6 @@ I entered the world of programming in 2019 and started my world with the site de
 <div align="center">
 <h1> 🌐 Socials: </h1>
   
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali.akbarzohour) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aliakbarzohour/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aliakbarzohour) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/ucr8a50dk0hfk7xe_aqbghja/featured) 
 </div>
 <div align="center">
