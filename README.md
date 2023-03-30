@@ -13,8 +13,11 @@ I entered the world of programming in 2019 and started my world with the site de
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliakbarzohour&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="center">
-  ### ✍️ Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+  
+  
+  <h2> ✍️ Random Dev Quote </h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
+  
 </div>
 
 ---
