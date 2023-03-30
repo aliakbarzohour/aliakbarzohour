@@ -12,8 +12,10 @@ I entered the world of programming in 2019 and started my world with the site de
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aliakbarzohour&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliakbarzohour&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+  ### ✍️ Random Dev Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+</div>
 
 ---
 
