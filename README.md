@@ -22,7 +22,3 @@ I entered the world of programming in 2019 and started my world with the site de
 
 ---
 
-
-[![](https://visitcount.itsvg.in/api?id=aliakbarzohour&icon=4&color=12)](https://visitcount.itsvg.in)
-
-
