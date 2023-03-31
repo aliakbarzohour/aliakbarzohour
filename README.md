@@ -14,7 +14,6 @@ I entered the world of programming in 2019 and started my world with the site de
 
 <div align="center">
   
-  
   <h2> ✍️ Random Dev Quote </h2>
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
   
