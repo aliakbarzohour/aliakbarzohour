@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 ! My name is Aliakbar Zohour and I'm a Software Engineer</h1>
 
-<div align="center">
+<div align="center" style="margin:1rem 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" alt="bash logo"  />
