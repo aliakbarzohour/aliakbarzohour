@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 ! My name is Aliakbar Zohour and I'm a Software Engineer</h1>
 
-<div align="center" style="margin:1rem 0;">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" alt="bash logo"  />
@@ -60,7 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="32" alt="raspberrypi logo"  />
 </div>
 
-
+###
 <div align="center">
   <a href="https://www.youtube.com/@aliakbarzohour" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
+###
 <br clear="both">
 
 ![github-contribution-grid-snake2](https://github.com/aliakbarzohour/aliakbarzohour/assets/71524940/18ccebae-4843-4c99-ab3b-760c9252e897)
